@@ -10,8 +10,8 @@ This is something I've found myself putting together maybe 3-4 times a month sin
 
   * [Backbone](http://documentcloud.github.com/backbone/) and [Backbone LocalStorage](http://documentcloud.github.com/backbone/docs/backbone-localstorage.html) to give myself a framework to operate in.  These depend on or are enhanced by [Underscore](http://underscorejs.org) and [jQuery](http://jquery.com).  The LocalStorage is there to get you a nice place to store information while you build.
 
-Here's the thing:  Most of the time including a framework or server reliance of any sort is a pain in the ass.  Also, if you want to compose a static site, why not genuinely make it static?  With these things in mind, I decided to start doing most of my thought-to-action web work in raw html/css/js.
+When I proof of concept or prototype web things, I don't like to mess around with a server-side framework.  I also don't like to mess with photoshop or wireframe tools.  I build it in actual html/css/js.
 
-It works out remarkably well for me, and unless there is any apparent need to allow for data-driven functionality, I can put this stuff up on a server as-is once I've drafted a prototype of it.
+The last time I did this I got annoyed with all the repetition I go through to assemble the libraries and then make a structure out of them.  So I made a repo for myself to start prototypes / mock-ups faster.
 
-Mainly this is here for myself, so that when I have a concept I'd like to prove I can yank this repo into a new directory and play around with it.  In fact, this is an adjusted reduction of my latest iteration of a proof of concept.
+If you ever want to play with your web browser, this might help you get started a bit faster.
