@@ -15,3 +15,9 @@ When I proof of concept or prototype web things, I don't like to mess around wit
 The last time I did this I got annoyed with all the repetition I go through to assemble the libraries and then make a structure out of them.  So I made a repo for myself to start prototypes / mock-ups faster.
 
 If you ever want to play with your web browser, this might help you get started a bit faster.
+
+## Testing
+
+Baseline comes bundled with a preconfigured [Jasmine](http://pivotal.github.com/jasmine/) installation, as well as one passing sanity test.
+
+To get started testing, put your specs in (Baseline Root)/spec/behaviors/application_spec.js
