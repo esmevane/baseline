@@ -1,5 +1,7 @@
 # Baseline
 
+### A static web-based prototyping toolbelt.
+
 This is something I've found myself putting together maybe 3-4 times a month since I've started development.  Over time it's grown into quite a lot of different go-to libraries and tools that I use to get straight to building something.  It contains:
 
   * [Bootstrap](http://twitter.github.com/bootstrap/) and [Chosen](http://harvesthq.github.com/chosen/) to cure myself of design dependencies.  Now I can prototype applications with fancy buttons and bearable formatting and typesetting.  It's extremely low overhead.
