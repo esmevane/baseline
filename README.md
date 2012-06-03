@@ -8,6 +8,8 @@ This is something I've found myself putting together maybe 3-4 times a month sin
 
   * [Backbone](http://documentcloud.github.com/backbone/) and [Backbone LocalStorage](http://documentcloud.github.com/backbone/docs/backbone-localstorage.html) to give myself a framework to operate in.  These depend on or are enhanced by [Underscore](http://underscorejs.org) and [jQuery](http://jquery.com).  The LocalStorage is there to get you a nice place to store information while you build.
 
+  * [RequireJS](http://requirejs.org/) to move library dependency management from the markup to the scripts.
+
 When I proof of concept or prototype web things, I don't like to mess around with a server-side framework.  I also don't like to mess with photoshop or wireframe tools.  I build it in actual html/css/js.
 
 The last time I did this I got annoyed with all the repetition I go through to assemble the libraries and then make a structure out of them.  So I made a repo for myself to start prototypes / mock-ups faster.
